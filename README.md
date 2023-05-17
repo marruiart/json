@@ -30,6 +30,11 @@
     "descEstado": "Pagada",
     "importeOrdenacion": 28.5,
     "fecha": "16/01/2020"
+    },
+        {
+    "descEstado": "Pagada",
+    "importeOrdenacion": 17.94,
+    "fecha": "04/03/2019"
     }
   ]
 }
