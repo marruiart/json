@@ -40,6 +40,11 @@
     "descEstado": "Pagada",
     "importeOrdenacion": 6.8,
     "fecha": "17/04/2021"
+    },
+        {
+    "descEstado": "Pendiente de pago",
+    "importeOrdenacion": 100.02,
+    "fecha": "22/05/2023"
     }
   ]
 }
